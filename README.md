@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**abhijeet-0165/abhijeet-0165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhijeet, a Computer Science student from India.
 
-Here are some ideas to get you started:
+I'm currently learning Cybersecurity, Web Development, and Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, solving coding problems, and exploring how technology works behind the scenes.
+
+Right now, I'm focusing on:
+
+* 🔒 Cybersecurity Fundamentals
+* 🌐 Web Development
+* 💻 Data Structures & Algorithms
+* 🚀 Git & GitHub
+
+Some of the projects I'm working on include web applications and a student carpooling platform.
+
+### Fun Facts
+
+* 🏀 I enjoy playing basketball
+* 📚 I like reading books on psychology and self-improvement
+* 💡 I enjoy learning new technologies and building things from scratch
+* 🎯 My goal is to become a skilled software engineer and cybersecurity professional
+
+Thanks for visiting my profile!
