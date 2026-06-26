@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Abhijeet, a Computer Science student from India.
+I’m Abhijeet, a Computer Science student at Chitkara University, Punjab.
 
 I'm currently learning Cybersecurity, Web Development, and Data Structures & Algorithms.
 
